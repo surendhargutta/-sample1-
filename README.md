@@ -1,2 +1,2 @@
 hello guys
-adiing a sample2
+adding a sample2
